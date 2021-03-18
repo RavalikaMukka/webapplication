@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/webapp.names/.vs/webapp.names
+/webapp.names/webapp.names/bin
+/webapp.names/webapp.names/obj/Debug
