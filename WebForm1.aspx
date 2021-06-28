@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>this is sample project</title>
+    <title>this is sample project to practice</title>
 </head>
 <body>
     <form id="form1" runat="server">
